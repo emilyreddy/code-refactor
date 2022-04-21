@@ -20,3 +20,4 @@ The repo contains an index.html file, and assets folder containing a CSS file sy
 
 # Usage
 Using any desktop browser, open the link mentioned above to view the webpage.
+![screenshot](https://user-images.githubusercontent.com/99365202/164352365-b79457e5-60ca-4fbd-9870-4d323aae727e.png)
